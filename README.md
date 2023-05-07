@@ -3,7 +3,7 @@
 You can find the dataset **[here](https://www.kaggle.com/datasets/senapatirajesh/netflix-tv-shows-and-movies)**.
 
 ## Project team:
-~- Gulcan, ~-Matt, ~-Stephen, ~-Daniel
+**~- Gulcan**, **~-Matt**, **~-Stephen**, **~-Daniel**
 
 ## In this project we answered these questions:
 
