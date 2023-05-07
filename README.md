@@ -24,7 +24,7 @@ We structured this project in the following sections:
 
 ***----------xxxxx----------***
 
-In Data exploration we tried to understand the dataset looking the columns name, size, data types and data in general. Here are some examples of data exploration we used:
+In data exploration we tried to understand the dataset looking the columns name, size, data types and data in general. Here are some examples of data exploration we used:
 
 
 ![image](https://user-images.githubusercontent.com/124798004/236656113-be4d3a9e-a65b-4d4f-9723-6a72601723c5.png)
