@@ -38,7 +38,7 @@ In data cleaning we splitted the multiple values we found in the columns country
 ![image](https://user-images.githubusercontent.com/124798004/236656255-1fb0d6d6-9aa9-4832-8abe-f17c63eb2520.png)
 ![image](https://user-images.githubusercontent.com/124798004/236656281-809b8a42-9474-4efe-9df1-24fbee1eb48f.png)
 
-***----------xxxxx----------
+***----------xxxxx----------***
 
 In data visualization we aim to answer the questions listed above. Here are some examples of data visualizations:
 
@@ -47,7 +47,7 @@ In data visualization we aim to answer the questions listed above. Here are some
 
 ![image](https://user-images.githubusercontent.com/124798004/236656328-7fd90496-4b7c-42ba-965a-f69defd70308.png)
 
-***----------xxxxx----------
+***----------xxxxx----------***
 
 We would like to say thank you to James Griffiths and Shriya Kakar for all the support given to achieve these results.
 
