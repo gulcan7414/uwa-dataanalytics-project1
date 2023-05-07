@@ -9,10 +9,10 @@ You can find the dataset **[here](https://www.kaggle.com/datasets/senapatirajesh
 
 **In this project we answered these questions:**
 
-### 1- What is the content distribution on Netflix movies vs TV shows?
+### 1- How is the content distribution on Netflix between movies and TV shows?
 ### 2- Is the majority content on Netflix made for adults or kids?
-### 3- Which year was the highest release quantity contents on Netflix?
-### 4- What are the countries with more content realased?
+### 3- In which year did Netflix release the highest quantity of content?
+### 4- What are the countries that have released the most content on Netflix?
 ##
 
 **We structured this project in the following sections:**
