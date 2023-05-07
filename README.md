@@ -34,7 +34,7 @@ You can find the dataset **[here](https://www.kaggle.com/datasets/senapatirajesh
 ![image](https://user-images.githubusercontent.com/124798004/236656281-809b8a42-9474-4efe-9df1-24fbee1eb48f.png)
 ## 
 
-## In data visualization we aim to answer the questions listed above. Here are some examples of data visualizations:
+## In data visualization we aimed to answer the questions listed above. Here are some examples of data visualizations:
 
 
 ![image](https://user-images.githubusercontent.com/124798004/236656322-6478380e-7628-4ebe-912e-7f71954cab0d.png)
